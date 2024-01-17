@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SarveshPrasath23
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Discord
 - 😄 Pronouns: He
 - ⚡ Fun fact: Coding has over 700 languages
